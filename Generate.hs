@@ -8,7 +8,6 @@
     --package text
     --package wreq
     --
-    -hide-all-packages
 -}
 
 {-# LANGUAGE DeriveGeneric     #-}
